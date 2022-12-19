@@ -1,0 +1,3 @@
+[submodule "doukeyi/RustHackathon2022"]
+	path = doukeyi/RustHackathon2022
+	url = https://github.com/doki23/RustHackathon2022
